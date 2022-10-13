@@ -25,4 +25,4 @@
 
 ### 📫 How to reach me:
 
-[![Email](https://img.shields.io/badge/l.celigx@gmail.com-e84134?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=000&labelColor=red)](mailto:l.celigx@gmail.com)
+**Email: l.celigx@gmail.com**
