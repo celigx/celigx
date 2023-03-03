@@ -21,7 +21,7 @@
 	<a><img src="https://img.shields.io/badge/Figma-141a20?style=flat&logo=figma&logoColor=FFFFFF" alt="Figma"></a>
 	<a><img src="https://img.shields.io/badge/Github_Actions-141a20?style=flat&logo=github-actions&logoColor=FFFFFF" alt="Github Actions"></a>
 	<a><img src="https://img.shields.io/badge/Ansible-141a20?style=flat&logo=ansible&logoColor=FFFFFF" alt="Ansible"></a>
-	<a><img src="https://img.shields.io/badge/MySQL-141a20?style=flat&logo=markdown&logoColor=4479A1" alt="MySQL"></a>
+	<a><img src="https://img.shields.io/badge/MySQL-141a20?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL"></a>
 	<a><img src="https://img.shields.io/badge/Markdown-141a20?style=flat&logo=markdown&logoColor=FFFFFF" alt="Markdown"></a>
 </p>
 
